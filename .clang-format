@@ -1,0 +1,6 @@
+Language:        Cpp
+CaseSensitive:   true
+Naming:
+  VariableCase:  lower_case
+  FunctionCase:  lower_case
+  ClassCase:     CamelCase

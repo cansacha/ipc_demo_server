@@ -1,0 +1,2 @@
+#pragma once
+#define IPC_DEMO_SERVER_VERSION "@PROJECT_VERSION@"
