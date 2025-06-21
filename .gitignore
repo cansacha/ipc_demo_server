@@ -1,0 +1,46 @@
+# === CLion / JetBrains ===
+.idea/
+cmake-build-*/
+
+# === CMake ===
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# === Build folders ===
+build/
+out/
+generated/
+
+# === Compilés & binaires ===
+*.o
+*.obj
+*.lo
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+
+# === Exécutables de test ou final ===
+IpcDemoServer
+
+# === Fichiers temporaires ===
+*.swp
+*~
+*.bak
+*.tmp
+
+# === Système ===
+.DS_Store
+Thumbs.db
+
+# === Logs éventuels ===
+*.log
+
+# === Fichiers spécifiques au projet ===
+VERSION
